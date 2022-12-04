@@ -1,0 +1,5 @@
+its a Simple laravel application(not sail)
+
+install using compose(composer install)
+run migration
+go to project directory in cmd and run  `php artisan flashcard:interactive` 
